@@ -24,8 +24,9 @@ h3{
 p{
     color: #8f8f8f;
 }
+
 .container-fluid{
-    padding: 3% 15% 5%;
+    padding: 3% 10% 5%;
 
 }
 /* Navigation bar */
@@ -35,16 +36,17 @@ p{
 
 .navbar-brand{
     font-family: "ubuntu";
-    font-size: 4.5rem;
+    font-size: 3.5rem;
     font-weight: bold;
     }
 
 .nav-item{
-    padding: 0.18px;    
+    padding: 0.1px;    
 }
 .nav-link{
     font-size: 1.2rem;
     font-family: Montserrat;    
+
 }
 
 /* button */
@@ -54,12 +56,10 @@ p{
 
 /* Title Image */
 .title-image{
-    width:60% ; 
-    transform: rotate(25deg);
+    width: 60% ; 
     position: absolute;
-    right:30%;
+    right: 30%;
     
- 
 }
 
 /* Features section */
